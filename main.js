@@ -121,7 +121,7 @@ friends = friends.join("-");
 
 console.log(friends); 
 */
-
+/*
 var friends = [
     "Hassan",
     "Soha",
@@ -133,6 +133,37 @@ var friends = [
 console.log(friends); 
 
 friends = friends.join("[]");
+
+console.log(friends); 
+*/
+
+/*
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind"
+];
+
+console.log(friends); 
+
+friends = friends.join(" and ");
+
+console.log(friends); 
+
+*/
+var friends = [
+    "Hassan",
+    "Soha",
+    "Ahmad",
+    "Zahra",
+    "Hind"
+];
+
+console.log(friends); 
+
+friends = friends.join(" - ");
 
 console.log(friends); 
 
